@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 8, 2019
+### Day 0: Dec 8, 2019
 ##### (delete me or comment me out)
 
 **Today's Progress**: Created Best UI Audio Player, fix issue in babel, Materialize icons in webpack...
@@ -9,14 +9,14 @@
 
 **Link to work:** [Best UI Audio Player](https://github.com/lifeeric/Best-UI-Audio-Player)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: Dec 9, 2019
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learn a algorithm, Build JS Analog clock,
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I'm getting confused becuase what should I do next,
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: repo name Analog Clock
 
 
 ### Day 1: June 27, Monday
