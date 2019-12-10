@@ -19,6 +19,31 @@
 **Link(s) to work**: repo name Analog Clock
 
 
+### Day 2: Dec 10
+
+**Today's Progress**: React todo list once again( repo named ). re-learn about React, Data Structure
+
+**Thoughts** It was so excited moment when I opened up react project. I'm getting better slowly
+
+**Link(s) to work**
+1. [Repo Link](https://github.com/lifeeric/React-todo-list-once-again)
+
+
+
+
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
