@@ -32,7 +32,27 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 3: Dec 11, Monday
+
+**Today's Progress**: React Skill Adding Project, Learn Making dictonary.
+
+**Thoughts** Not so good though.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://github.com/lifeeric/React-skill-adding)
+
+
+
+### Day 1: Dec 23, Monday
+
+**Today's Progress**: Learn A lot Thankfully about Shell, Mongodb Config, React 16 Book.
+
+**Thoughts** I just get back to coding challange with open mind, Today was awesome day, I enjoyed with strick problem and solved it.
+
+**Link(s) to work**
+As Shell small script, I can't upload it, and about React I'm not sure!
+
+Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -48,8 +68,21 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started coding, and it's a great feeling when I fina>
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/>
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a>
+
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I fina>
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/>
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a>
+
+
