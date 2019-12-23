@@ -39,7 +39,7 @@
 **Thoughts** Not so good though.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://github.com/lifeeric/React-skill-adding)
+1. [Repo link](https://github.com/lifeeric/React-skill-adding)
 
 
 
