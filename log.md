@@ -43,7 +43,7 @@
 
 
 
-### Day 1: Dec 23, Monday
+### Day 4: Dec 23, Monday
 
 **Today's Progress**: Learn A lot Thankfully about Shell, Mongodb Config, React 16 Book.
 
@@ -64,6 +64,17 @@ Day 1: June 27, Monday
 
 
 
+### Day 5: Dec 24, Tue
+
+**Today's Progress**: Learn about MongoDB, bash only, spend alot of time about Mongod config.
+
+**Thoughts** I'm walking through the React 16 Essential Book, but the project setup isn't done yet alot of configuration is missing!
+Enjoy a lot Today!
+
+**Link to work**
+on Tutorials Point / MongoDB
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -75,14 +86,26 @@ Day 1: June 27, Monday
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a>
 
 
+
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCode>
 
-**Thoughts** I've recently started coding, and it's a great feeling when I fina>
+**Thoughts** I've recently started coding, and it's a great feelin>
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/>
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a>
+1. [Find the Longest Word in a String](https://www.freecodecamp.co>
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges>
+
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCode>
+
+**Thoughts** I've recently started coding, and it's a great feelin>
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.co>
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges>
 
 
