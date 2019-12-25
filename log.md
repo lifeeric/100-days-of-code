@@ -75,16 +75,11 @@ Enjoy a lot Today!
 on Tutorials Point / MongoDB
 
 
-### Day 1: June 27, Monday
+### Day 6: Dec 25, Wed
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Solved The React 16 project problem thankfully, walk through the book, bash, Mongod Config.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I fina>
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/>
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a>
-
+**Thoughts** Awesome, Helpful, I miss you today!
 
 
 ### Day 1: June 27, Monday
