@@ -82,6 +82,27 @@ on Tutorials Point / MongoDB
 **Thoughts** Awesome, Helpful, I miss you today!
 
 
+### Day 7: Dec 26, Thu
+
+**Today's Progress**: MongoDB, general, Gulp.js'
+
+**Thoughts** I'm not sure about this right now, but awesome
+
+
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCode>
+
+**Thoughts** I've recently started coding, and it's a great feelin>
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.co>
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges>
+
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCode>
