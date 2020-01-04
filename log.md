@@ -90,15 +90,11 @@ on Tutorials Point / MongoDB
 
 
 
-### Day 1: June 27, Monday
+### Day 8: Jan 4, Sat
 
-**Today's Progress**: I've gone through many exercises on FreeCode>
+**Today's Progress**: Advanced Gulp, fixing the problem
 
-**Thoughts** I've recently started coding, and it's a great feelin>
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.co>
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges>
+**Thoughts** As working on ReactJs Book, and now I'm at stuck vm
 
 
 
