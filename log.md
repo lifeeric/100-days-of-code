@@ -52,7 +52,7 @@
 **Link(s) to work**
 As Shell small script, I can't upload it, and about React I'm not sure!
 
-Day 1: June 27, Monday
+### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -99,11 +99,11 @@ on Tutorials Point / MongoDB
 
 
 
-### Day 1: June 27, Monday
+### Day 9: Jan 15, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCode>
+**Today's Progress**: Remind Redux, .. ..
 
-**Thoughts** I've recently started coding, and it's a great feelin>
+**Thoughts** today was awesome day for me,
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.co>
